@@ -5,3 +5,4 @@ function dwarfRollCall(arrayNames){
 }
 return newArray;
 }
+dwarfRollCall(newArray);
